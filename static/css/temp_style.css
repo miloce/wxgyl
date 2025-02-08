@@ -1,0 +1,28 @@
+/*在线留言*/
+.online{ overflow:hidden;margin:0 auto;}
+.online h2{ font:bold 16px/40px "microsoft Yahei"; color:#333; height:40px; overflow:hidden;}
+.online h2 a{ color:#333;}
+.online h3{ font:12px/16px "microsoft Yahei"; color:#666; padding-top:8px;}
+.online h3 em{ font:bold 16px/16px "microsoft Yahei";}
+.online h4{ font:12px/18px "microsoft Yahei"; color:#666; padding-top:4px;}
+.online ul{ margin-top:0px; overflow:hidden;}
+.online li{margin-top:12px;text-align:center;}
+.online li em{ width:95px; display:inline-block; vertical-align:top; font:12px/23px "microsoft Yahei"; color:#666; text-align:right; padding-right:5px;}
+.online li span{color:#666;padding-top: 5px; margin-left:5px;}
+.online li .inp_01{ width: 480px; height: 23px; border: 1px solid #CCC; padding-left: 5px; line-height: 23px; color: #333; }
+.online li .inp_02{ width:480px; height:120px; border: 1px solid #CCC; padding-left: 5px; line-height: 23px; color: #333;}
+.online li .inp_03{ width:100px; height:23px; border: 1px solid #CCC; padding-left: 5px; line-height: 23px; color: #333;}
+.online li.li_02{ margin-left:20px; display:inline;}
+.online li.li_03{ width:548px; margin-top:28px;}
+.online li.li_04{margin-top:28px;}
+.online li img{ vertical-align:middle; margin:0 20px 0 15px;}
+.online li a{ color:#333; font-family:"microsoft Yahei";}
+.online li.online_btn{ overflow:hidden;}
+.online .tj{padding:5px 15px;border:1px solid #666;text-align:center; color:#4a2206; background:none; font-family:"microsoft Yahei"; cursor:pointer; margin-left:23px; display:inline; float:left; line-height:20px;}
+
+/*第二个留言板样式*/
+.online2{padding:30px;background-color:#fff;border:1px solid #dedede;}
+.online2 li .inp_01,.online2 li .inp_02{width:auto;width:100%;height:36px;border:1px solid #e4eaec;padding:6px 15px;color:#76838f;box-sizing:border-box;}
+.online2 li .inp_02{height:100px;}
+.online2 li.online_btn{margin-top:12px;}
+.online2 .tj{width:100%;margin:0;background-color:#e7272d;color:#fff;border-color:#e7272d;font-size:18px;padding:10px 0;}

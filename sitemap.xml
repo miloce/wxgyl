@@ -6,26 +6,6 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 
-<url>
- <loc>https://beian.miit.gov.cn/</loc>
- <priority>0.3</priority>
- <lastmod>2025-02-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://www.miloce.cn/</loc>
- <priority>0.3</priority>
- <lastmod>2025-02-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-
-<url>
- <loc>https://work.weixin.qq.com/kfid/kfc25abb3aa60f665e1</loc>
- <priority>0.3</priority>
- <lastmod>2025-02-09</lastmod>
- <changefreq>weekly</changefreq>
-</url>
 
 <url>
  <loc>https://wxgyl.miloce.cn/67.html</loc>
